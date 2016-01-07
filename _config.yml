@@ -1,6 +1,6 @@
 name: Crafted Space
 favicon: null
-layout_spectrum: 0.1719030379317701
+layout_spectrum: 1
 typography_spectrum: 0.09289099206216633
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.24872910743579268
+  brandStrength: 0
   lightness: 0.8546967250294983
-  saturation: 0.8297882990445942
+  saturation: 1
   rhythmicContrast: 0.9582335231825709
 purpose: []
